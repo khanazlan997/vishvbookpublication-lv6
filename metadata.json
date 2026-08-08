@@ -1,0 +1,8 @@
+{
+  "name": "Vishv Book Writer LV22",
+  "description": "A modern recruitment hub for writers featuring interactive 3D UI, glassmorphism design, and transparent project-based reward charts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
