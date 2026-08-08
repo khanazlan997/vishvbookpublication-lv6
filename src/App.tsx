@@ -230,7 +230,7 @@ export default function App() {
                   Work From Home
                 </h3>
                 <p className="text-slate-600 text-sm leading-relaxed">
-                  Enjoy complete freedom to complete writing assignments from any location. Set your own daily pace without fixed office hours or commute hassles.
+                  Enjoy complete flexibility to complete writing assignments from any location. Set your own daily pace without fixed office hours or commute hassles.
                 </p>
               </div>
               <div 
