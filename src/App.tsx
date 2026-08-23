@@ -21,7 +21,7 @@ import { JoinTelegramButton } from './components/JoinTelegramButton';
 import { PROJECTS } from './components/ProjectCalculatorModal';
 
 export default function App() {
-  const TELEGRAM_URL = "https://t.me/+LOvIryArnjxiNTRl";
+  const TELEGRAM_URL = "https://t.me/+9OOSzfXLgDFjMGJl";
 
   const testimonials = [
     {

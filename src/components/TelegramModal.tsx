@@ -11,7 +11,7 @@ interface TelegramModalProps {
 export const TelegramModal: React.FC<TelegramModalProps> = ({
   isOpen,
   onClose,
-  telegramUrl = "https://t.me/+LOvIryArnjxiNTRl",
+  telegramUrl = "https://t.me/+9OOSzfXLgDFjMGJl",
   telegramHandle = "@vishvbook_official"
 }) => {
   const [copied, setCopied] = useState(false);
