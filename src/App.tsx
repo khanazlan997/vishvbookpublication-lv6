@@ -19,6 +19,7 @@ import { Card3D } from './components/Card3D';
 import { TypewriterText } from './components/TypewriterText';
 import { JoinTelegramButton } from './components/JoinTelegramButton';
 import { PROJECTS } from './components/ProjectCalculatorModal';
+import { SuspensionNoticeModal } from './components/SuspensionNoticeModal';
 
 export default function App() {
   const TELEGRAM_URL = "https://t.me/+9OOSzfXLgDFjMGJl";
@@ -608,6 +609,9 @@ export default function App() {
 
         </div>
       </footer>
+
+      {/* Non-closable Suspension Notice Overlay */}
+      <SuspensionNoticeModal />
 
     </div>
   );
