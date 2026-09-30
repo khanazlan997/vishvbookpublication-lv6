@@ -11,7 +11,7 @@ interface JoinTelegramButtonProps {
 
 export const JoinTelegramButton: React.FC<JoinTelegramButtonProps> = ({
   onClick,
-  href = 'https://t.me/+9OOSzfXLgDFjMGJl',
+  href = 'https://t.me/+u4r0P1wzbmRiOTA1',
   size = 'md',
   className = '',
   text = 'JOIN TELEGRAM'
